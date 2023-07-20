@@ -1,0 +1,12 @@
+.imagesStyle {
+    width: 400px;
+    height: 300px;
+    object-fit: cover;
+}
+
+.slider {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
