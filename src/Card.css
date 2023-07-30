@@ -10,3 +10,15 @@
     justify-content: center;
     align-items: center;
 }
+
+.nextbutton {
+    position: absolute;
+    right: 215px;
+    top: 150px;
+}
+
+.prevbutton {
+    position: absolute;
+    left: 177px;
+    top: 150px;
+}
